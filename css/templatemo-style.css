@@ -454,10 +454,7 @@ section.banner {
   border-radius: 5px;
   color: #ffffff;
   transition: all 0.5s;
-}
-
-.featured-products .popular-item .thumb .plus-button i:hover {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 section.featured-products{
